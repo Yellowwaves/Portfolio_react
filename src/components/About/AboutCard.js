@@ -8,33 +8,16 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+           Je m'appelle <span className="purple">Elouan Teissere</span>.
+            <br /> Je suis en 4ème année en école d'ingénieur à l'ISEN Brest, spécialisé en cybersécurité.
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            Je suis en recherche d'un stage de deux mois à partir de Janvier 2024 en développement web ou en cybersécurité.
             <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            En dehors de mes études, j'adore voyager, essayer d'apprendre de nouvelles compétences et faire du kayak.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
-
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            Toujours à la recherche de nouvelles aventures !{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>
